@@ -1,3 +1,3 @@
 ## Horspool
 
-The Horspool algorithm for pattern matching
+The Horspool algorithm for exact pattern matching
